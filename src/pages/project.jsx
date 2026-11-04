@@ -38,7 +38,7 @@ const Project = () => {
       status: "Running",
       statusColor: "text-green-500",
       content:
-        "A project to boost your Twitter engagement by generating a variety of programming-related content, including fun questions, creative tweets, and useful advice. This tool helps you connect with your audience by providing fresh and engaging posts tailored to the programming community.",
+        "A machine learning-based loan prediction system that evaluates applicant's financial details, income, credit history, and other relevant factors to predict loan approval eligibility. Uses data preprocessing, feature engineering, and classification algorithms to support faster and more informed lending decisions.",
       url: "#",
       github: "https://github.com/Suyash18-prog/Loan-Approval-Prediction",
       skill: ["Python", "Fast Api", "Machine Learning"],
